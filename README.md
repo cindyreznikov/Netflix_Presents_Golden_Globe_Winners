@@ -1,2 +1,1 @@
-# Netflix_Presents_Golden_Globe_Winners_ETL
-ETL Project
+# Netflix_Presents_Golden_Globe_Winners
