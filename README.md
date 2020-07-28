@@ -1,1 +1,1 @@
-# Netflix_Presents_Golden_Globe_Winners
+ETL Group Project - Extracted Netflix and Golden Globe data and performed transformation/cleaning as needed using Python Pandas. Created and loaded the data to a Postgres relational database for analysis. Which Netflix shows have been nominated for Golden Globes and what are their ratings?
